@@ -58,5 +58,6 @@ Run the desired model script from /models/ or a test script from /tests/.
 Results and metrics will be saved or visualized directly.
 
 📄 License
+
 This project is part of an academic thesis and provided for educational and research purposes.
 Feel free to use or cite with attribution.
