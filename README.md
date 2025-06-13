@@ -38,9 +38,6 @@ The project focuses on designing, implementing, and evaluating five models of dy
 
 📄 README.md # Project overview and instructions
 
-markdown
-Kopiuj
-Edytuj
 
 ## 🛠 Requirements
 
@@ -48,9 +45,9 @@ Edytuj
 - Required libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, keras, cvxpy, ta, tqdm, os, glob
 
 Install all dependencies using:
-
-```bash
 pip install -r requirements.txt
+
+
 ▶️ How to run
 Each model and test is implemented as a standalone script or notebook. To reproduce the main results:
 
