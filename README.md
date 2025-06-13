@@ -27,10 +27,15 @@ The project focuses on designing, implementing, and evaluating five models of dy
 ## 🗂 Repository structure
 
 📁 models/ # Implementation of all portfolio models
+
 📁 data/ # Input data (CSV) or scripts for downloading
+
 📁 tests/ # Rolling tests and stress test procedures
+
 📁 plots/ # Example result visualizations
+
 📄 requirements.txt # List of Python dependencies
+
 📄 README.md # Project overview and instructions
 
 markdown
