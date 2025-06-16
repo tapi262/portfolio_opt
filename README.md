@@ -28,13 +28,11 @@ The project focuses on designing, implementing, and evaluating five models of dy
 
 📁 models/ # Implementation of all portfolio models
 
-📁 data/ # Input data (CSV) or scripts for downloading
+📁 data/ # Input data (CSV) (example)
 
 📁 tests/ # Rolling tests and stress test procedures
 
-📁 plots/ # Example result visualizations
 
-📄 requirements.txt # List of Python dependencies
 
 📄 README.md # Project overview and instructions
 
@@ -51,7 +49,7 @@ pip install -r requirements.txt
 ▶️ How to run
 Each model and test is implemented as a standalone script or notebook. To reproduce the main results:
 
-Prepare the data in /data/ (or run preprocessing scripts).
+Prepare the data in /data/.
 
 Run the desired model script from /models/ or a test script from /tests/.
 
